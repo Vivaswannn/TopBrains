@@ -1,0 +1,14 @@
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\AdvanceCsharpApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\AdvanceCsharpApp.AssemblyInfoInputs.cache
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\AdvanceCsharpApp.AssemblyInfo.cs
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\AdvanceCsharpApp.csproj.CoreCompileInputs.cache
+D:\AdvanceCSharp\AdvanceCsharpApp\bin\Debug\net10.0\AdvanceCsharpApp.exe
+D:\AdvanceCSharp\AdvanceCsharpApp\bin\Debug\net10.0\AdvanceCsharpApp.deps.json
+D:\AdvanceCSharp\AdvanceCsharpApp\bin\Debug\net10.0\AdvanceCsharpApp.runtimeconfig.json
+D:\AdvanceCSharp\AdvanceCsharpApp\bin\Debug\net10.0\AdvanceCsharpApp.dll
+D:\AdvanceCSharp\AdvanceCsharpApp\bin\Debug\net10.0\AdvanceCsharpApp.pdb
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\AdvanceCsharpApp.dll
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\refint\AdvanceCsharpApp.dll
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\AdvanceCsharpApp.pdb
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\AdvanceCsharpApp.genruntimeconfig.cache
+D:\AdvanceCSharp\AdvanceCsharpApp\obj\Debug\net10.0\ref\AdvanceCsharpApp.dll
