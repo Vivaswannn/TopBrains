@@ -1,0 +1,5 @@
+param($installPath, $toolsPath, $package, $project)
+$assem = [System.Reflection.Assembly]::LoadFile("$($installPath)\tools\dcMySqlActivator.dll")
+$class = $assem.GetType("Devart.Activator.NuGetActivator")
+$method = $class.GetMethod("Activate")
+$method.Invoke(0, $null)
