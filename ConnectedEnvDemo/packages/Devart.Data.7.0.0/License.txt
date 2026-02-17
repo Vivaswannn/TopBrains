@@ -1,0 +1,81 @@
+dotConnect Provider License Agreement
+Copyright 2002-2025, Devart. All Rights Reserved
+
+PLEASE READ THIS LICENSE AGREEMENT CAREFULLY. BY INSTALLING OR USING THIS SOFTWARE, YOU INDICATE THE ACCEPTANCE OF AND AGREE TO BECOME BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE. IF YOU DO NOT AGREE TO ANY PART OF THE TERMS OF THIS LICENSE, DO NOT INSTALL, USE, OR DISTRIBUTE THIS SOFTWARE OR ANY OF ITS COMPONENTS. IN SUCH CASE, PLEASE PROMPTLY RETURN THE SOFTWARE TO DEVART.
+
+LICENSE
+This End-User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single legal entity) and Devart for the use of the dotConnect Provider software, including the software application, source code, demos, intermediate files, printed materials, and online or electronic documentation provided within this installation file. In this Agreement, the software program(s) and accompanying documentation will collectively be referred to as the “Software.”
+
+1. GRANT OF LICENSE
+The enclosed Software is provided under a license, not sold. You are granted the following rights and privileges, subject to the limitations, restrictions, and terms outlined in this Agreement.
+
+1.1. If you are a legally licensed user, your rights to use the Software are determined by the license type specified in the registration letter provided by Devart upon purchase. Under the specified license, you are entitled to the following:
+- Under the Single Developer License, you may install and use the Software on one or more computers, provided it is used by a single developer for the sole purpose of developing, testing, and deploying applications in accordance with this Agreement.
+- Under the Team Developer License, you may install and use the Software on one or more computers, provided it is used by up to four developers within a single company at one physical address for the sole purpose of developing, testing, and deploying applications in accordance with this Agreement.
+- Under the Site License, you may install and use the Software on one or more computers, provided it is used by developers within a single company at one physical address for the sole purpose of developing, testing, and deploying applications in accordance with this Agreement.
+
+1.2. If you are a legally licensed user of the Software, you are also entitled to:
+- Make one copy of the Software for archival purposes only, or copy the Software onto the hard disk of your computer and retain the original for archival purposes.
+- Develop and test applications using the Software, subject to the limitations outlined below.
+- Create libraries, components, and frameworks derived from the Software for personal use only.
+- Deploy and register run-time assemblies of the Software, subject to the Redistribution policy defined below.
+
+1.3. You may use evaluation versions of the Software as outlined in the Evaluation section.
+No other rights or privileges are granted in this Agreement.
+
+2. LIMITATIONS
+Only legally registered users are authorized to use the Software, in accordance with the terms and conditions of this Agreement. The use of the Software is subject to the following restrictions.
+
+2.1. You may not develop any applications that use or are based on the Software, either explicitly or implicitly, without obtaining the appropriate license from Devart. This includes, but is not limited to, enhancing, modifying, or developing applications, services, web applications, Integration Services packages, Analysis Services projects, or Reporting Services reports that use the Software.
+
+2.2. You may not use the Software in any application that is made available on a hosting basis and provides functionality that is substantially similar to that of the Software.
+
+2.3. You may not distribute or resell the Software, or any derivative works based on it, except as permitted under the Redistribution policy defined below. Specifically, you may not distribute the Software as part of libraries, components, or frameworks.
+
+2.4. You may not transfer, assign, or modify the Software, in whole or in part. Specifically, the Software license is non-transferable, and you may not transfer the Software installation package.
+
+2.5. You may not reverse engineer, decompile, or disassemble the Software in any way.
+
+2.6. You may not reproduce or distribute any Software documentation without prior written consent from Devart.
+
+2.7. You may not use applications developed with the Express versions of the Software for any commercial purposes.
+
+3. REDISTRIBUTION AND DEPLOYMENT
+Standard, Professional, Developer, Server, and OEM licenses allow the deployment of applications created with the Software to an unlimited number of desktops, workstations, or non-production servers within the developer's company.
+
+The Server edition, as well as Standard, Professional, and Developer editions purchased before December 15, 2025, allows the deployment of applications created with the Software or run-time assemblies to one production server for a Single License, four production servers for a Team License, or more for a Site License.
+
+The OEM edition, as well as Standard, Professional, and Developer editions purchased before December 15, 2025, allows the redistribution and deployment of applications created with the Software to third parties without incurring additional fees payable to the licensor.
+
+Redistribution and Deployment are permitted as follows:
+- You may deploy run-time assemblies of the Software with your applications.
+- You may register run-time assemblies of the Software on a target machine.
+- You may install the Software on a target machine using the Minimal installation type to enable the Software’s integration with Microsoft Business Intelligence solutions.
+However, these rights are subject to the following conditions:
+- You must take reasonable steps to ensure that the Software assemblies are not redistributed in any form that would allow them to be reused by any application other than your solution.
+- You are required to inform your customers that they are not authorized to use the Software independently from your solution. Additionally, if your customers wish to use the Software within a development environment, they must obtain the appropriate license from Devart.
+
+4. SOFTWARE PRODUCT ACTIVATION AND ACTIVATION KEYS
+For the use of the Software, you must complete the activation process. You acknowledge that a security code, referred to as "Activation Keys," which is owned and controlled by Devart, is required for the proper operation of the Software on your computer. Only Devart has the right to generate the Activation Keys. Upon purchase of the Software or an authorized transfer of the Software, Devart will promptly provide you with the necessary Activation Keys.
+
+You are prohibited from attempting to crack, alter, or otherwise derive the Activation Keys. You do not have the right to distribute, publish, publicly display, or otherwise disseminate the Software Activation Keys to any persons, organizations, entities, newsgroups, locations, or websites. To unlock, access, activate, and use the Software, you may only use Activation Keys provided by Devart, which may be obtained either through a purchase from an authorized reseller or directly from Devart. Only these Activation Keys are valid for use. The use of Activation Keys obtained through unauthorized means constitutes a violation of this EULA and may result in the termination of this, and any other, license agreement(s) with Devart.
+
+5. TRANSFER
+You may not transfer the Software to any individual or entity without express written permission from Devart. Specifically, you may not share copies of the Software under the Single Developer License or Team License with other co-developers unless each individual obtains the appropriate license for their copy.
+
+6. TERMINATION
+Devart may terminate this Agreement immediately, without notice or judicial resolution, in the event of any failure to comply with any provision of this Agreement. Upon termination, you must promptly destroy the Software, all accompanying written materials, and all copies.
+
+7. EVALUATION
+Devart may provide evaluation ("Trial") versions of the Software. You may transfer or distribute Trial versions of the Software only as the original installation package. If the Software you have obtained is marked as a "Trial" version, you may install and use it for up to 30 calendar days from the date of activation (the "Trial Period"), provided that it is used solely for evaluation purposes and not for the development or deployment of any application in production. You may not use applications developed with Trial versions of the Software for any commercial purposes. Upon expiration of the Trial Period, you may either register the Software, continue using the Express version, or uninstall the Software. All copies of the Software and its accompanying written materials must then be destroyed.
+
+8. WARRANTY
+The Software and documentation are provided "AS IS," without any warranty of any kind. Devart makes no warranties, either express or implied, including but not limited to implied warranties of merchantability or fitness for a particular purpose or use.
+
+9. SUBSCRIPTION AND SUPPORT
+The Software is sold on a subscription basis. The subscription entitles you to download improvements and enhancements from Devart’s website as they become available, during the active subscription period. The initial subscription period is one year from the date of purchase of the license. The subscription is automatically activated upon purchase and may be renewed by Devart, subject to the payment of applicable fees. Licensed users of the Software with an active subscription may request technical assistance via email from the Software development team. Devart will make reasonable efforts to respond to queries, but does not guarantee that all queries or issues will be resolved.
+
+10. COPYRIGHT
+The Software is the confidential and proprietary copyrighted work of Devart and is protected by international copyright laws and treaty provisions. You may not remove or alter the copyright notice from any copy of the Software or its accompanying written materials.
+
+This Agreement constitutes the entire understanding between the parties and supersedes any other agreements, whether written, oral, express, or implied.
